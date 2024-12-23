@@ -1,0 +1,58 @@
+# Créé par https://www.toptal.com/developers/gitignore/api/c
+# Modifier sur https://www.toptal.com/developers/gitignore?templates=c
+
+### C ###
+# Prérequis
+*.d
+
+# Fichiers objets
+*.o
+*.ko
+*.obj
+*.elfe
+
+# Sortie du linker
+*.ilk
+*.carte
+*.exp
+
+# En-têtes précompilés
+*.gch
+*.pch
+
+# Bibliothèques
+*.lib
+*.un
+*.la
+*.lo
+
+# Objets partagés (y compris les DLL Windows)
+*.dll
+*.donc
+*.donc.*
+*.dylib
+
+# Exécutables
+*.exe
+*.dehors
+*.application
+*.i*86
+*.x86_64
+*.hex
+
+# Fichiers de débogage
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Résultats de la compilation du module du noyau
+*.mod*
+*.cmd
+.tmp_versions/
+modules.commander
+Module.symvers
+Mkfile.ancien
+dkms.conf
+
+# Fin de https://www.toptal.com/developers/gitignore/api/c 

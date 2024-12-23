@@ -1,0 +1,12 @@
+Produit 1 
+Référence : 1
+Nom : mangue
+Quantité : 14
+Prix Unitaire : 100.00
+
+Produit 2 
+Référence : 2
+Nom : papaye
+Quantité : 15
+Prix Unitaire : 50.00
+
